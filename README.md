@@ -8,7 +8,9 @@ In this project i have developed a application that pops up notification on chan
 
 ##How to run this app:-
 1. First of all the following command to install all the dependencies
+    
     install npm
 2. After that run the following command in order to run this application
+    
     grunt
 
