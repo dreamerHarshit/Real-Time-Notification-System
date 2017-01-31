@@ -12,14 +12,3 @@ In this project i have developed a application that pops up notification on chan
 2. After that run the following command in order to run this application
     grunt
 
-##Directory Structure:-
---- Server
-   + -- index.js
-   + -- db.js
---- Routes
-   + -- index.js
---- Client
-   + -- index.html
---- node_modules
---- package.json
---- GruntFile.js
