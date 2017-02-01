@@ -13,7 +13,16 @@ Socket.io will be responsible for detecting events and information back-end as w
 1. First of all the following command to install all the dependencies
     
     install npm
-2. After that run the following command in order to run this application
+    
+2. After That create a database in Mysql name- socketDemo using command
+
+    CREATE DATABASE socketDemo;
+
+3. now run the following command to create table in socketDemo database   
+
+     mysql -u root -p socketDemo< socketDemo.sql
+    
+4. After that run the following command in order to run this application
     
     grunt
 
