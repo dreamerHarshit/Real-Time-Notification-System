@@ -25,4 +25,7 @@ Socket.io will be responsible for detecting events and information back-end as w
 4. After that run the following command in order to run this application
     
     grunt
-
+##Link to resoursec i have used:-
+http://socket.io/docs/#
+https://codeforgeek.com/2015/09/real-time-notification-system-using-socket-io/
+https://www.tutorialspoint.com/nodejs/nodejs_first_application.htm
